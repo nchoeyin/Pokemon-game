@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+body {
+  margin: 0;
+  font-family: 'Work Sans';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eceff1; /*background color here */
+  color:#4d4d4d; /* This affects the text color. After this go to Pokecard.css to make text align as center*/
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* This page effects the entire css so better to put it here */

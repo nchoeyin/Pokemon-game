@@ -1,0 +1,15 @@
+.Pokedex {
+    text-align:center;
+}
+.Pokedex-cards{
+    display : flex; /*as soon as we write this, the div elements which contained elements row by row will be bundled together */
+    justify-content:space-evenly; 
+    flex-wrap: wrap; /*This statement make elements overlap*/
+    
+}
+.Pokedex-winner {
+    color:#4caf50;
+}
+.Pokedex-loser {
+    color:#e91e63;
+}
